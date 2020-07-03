@@ -6,10 +6,9 @@ C++ implementation of the MT19937 pseudo random number generator by Takuji Nishi
 
 You can take this README as Example usage:
 
-cp README.md README.cpp
 g++ -o tt README.cpp tak_mak.cpp
 ./tt
-rm README.cpp tt
+rm tt
 
 */
 
