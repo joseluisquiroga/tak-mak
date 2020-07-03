@@ -9,6 +9,7 @@ QUIROGA BELTRAN, Jose Luis.
 Id (cedula): 79523732 de Bogota - Colombia.
 
 You can find other versions in:
+https://github.com/MersenneTwister-Lab/SFMT
 http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/VERSIONS/C-LANG/c-lang.html
 
 ------------------------------------------------------------

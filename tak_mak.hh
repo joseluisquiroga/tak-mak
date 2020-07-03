@@ -23,22 +23,6 @@ Makoto and Takuji.
 
 class for the tak_mak pseudo random number generator.
 
-	tak_mak use:
-
-	if(key_longs.size() == 1){
-		for_bytes.init_with_long(key_longs[0]);
-	} else {
-		for_bytes.init_with_array(
-			key_longs.get_c_array(), 
-			key_longs.get_c_array_sz()
-		);
-	}
-
-	op = tm_gen.gen_rand_int32();
-	idx1 = tm_gen.gen_rand_int32_ie(0, key_bits.size());
-	idx2 = tm_gen.gen_rand_int32_ie(0, op_bits.size());
-
-
 --------------------------------------------------------------*/
 
 
